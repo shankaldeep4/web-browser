@@ -1,0 +1,6 @@
+{
+  "name": "AdBlock Web Browser",
+  "description": "A high-speed web browser featuring built-in ad blocking, global access, dynamic download speeds, and a hardware-accelerated video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
